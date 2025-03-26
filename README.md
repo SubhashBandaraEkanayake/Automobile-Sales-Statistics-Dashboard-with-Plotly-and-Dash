@@ -18,6 +18,5 @@ Dash -> A framework that uses plotly to create interactive web applications and 
 
 **Input and Output :** Used to define interactivity in Dash apps.
 
-    1.`Input` - listens for changes.
-
-2. `Output` - specifies what should update in response.
+1. Input - listens for changes.
+2. Output - specifies what should update in response.
